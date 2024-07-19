@@ -4,7 +4,7 @@
 
 # Docker
 
-DOCKER_IMAGE_TAG="imx-yocto"
+DOCKER_IMAGE_TAG="imx-clean-env"
 DOCKER_WORKDIR="/opt/yocto"
 
 # Yocto
